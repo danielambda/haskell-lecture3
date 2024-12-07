@@ -16,3 +16,4 @@ data VisualConfig = VisualConfig
   { visualNoTasksText :: String
   , visualTasksHeader :: String
   } deriving Show
+
